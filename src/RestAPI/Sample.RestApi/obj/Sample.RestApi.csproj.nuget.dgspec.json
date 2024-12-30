@@ -1,0 +1,390 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\RestAPI\\Sample.RestApi\\Sample.RestApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Application\\Sample.Application\\Sample.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Application\\Sample.Application\\Sample.Application.csproj",
+        "projectName": "Sample.Application",
+        "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Application\\Sample.Application\\Sample.Application.csproj",
+        "packagesPath": "C:\\Users\\test5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Application\\Sample.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\test5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Commons\\Sample.Commons\\Sample.Commons.csproj": {
+                "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Commons\\Sample.Commons\\Sample.Commons.csproj"
+              },
+              "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Core\\Sample.Core\\Sample.Core.csproj": {
+                "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Core\\Sample.Core\\Sample.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Commons\\Sample.Commons\\Sample.Commons.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Commons\\Sample.Commons\\Sample.Commons.csproj",
+        "projectName": "Sample.Commons",
+        "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Commons\\Sample.Commons\\Sample.Commons.csproj",
+        "packagesPath": "C:\\Users\\test5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Commons\\Sample.Commons\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\test5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Core\\Sample.Core\\Sample.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Core\\Sample.Core\\Sample.Core.csproj",
+        "projectName": "Sample.Core",
+        "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Core\\Sample.Core\\Sample.Core.csproj",
+        "packagesPath": "C:\\Users\\test5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Core\\Sample.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\test5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Infrastructure\\Sample.Persistence.EF\\Sample.Persistence.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Infrastructure\\Sample.Persistence.EF\\Sample.Persistence.EF.csproj",
+        "projectName": "Sample.Persistence.EF",
+        "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Infrastructure\\Sample.Persistence.EF\\Sample.Persistence.EF.csproj",
+        "packagesPath": "C:\\Users\\test5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Infrastructure\\Sample.Persistence.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\test5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Application\\Sample.Application\\Sample.Application.csproj": {
+                "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Application\\Sample.Application\\Sample.Application.csproj"
+              },
+              "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Commons\\Sample.Commons\\Sample.Commons.csproj": {
+                "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Commons\\Sample.Commons\\Sample.Commons.csproj"
+              },
+              "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Core\\Sample.Core\\Sample.Core.csproj": {
+                "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Core\\Sample.Core\\Sample.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\RestAPI\\Sample.RestApi\\Sample.RestApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\RestAPI\\Sample.RestApi\\Sample.RestApi.csproj",
+        "projectName": "Sample.RestApi",
+        "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\RestAPI\\Sample.RestApi\\Sample.RestApi.csproj",
+        "packagesPath": "C:\\Users\\test5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\RestAPI\\Sample.RestApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\test5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Application\\Sample.Application\\Sample.Application.csproj": {
+                "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Application\\Sample.Application\\Sample.Application.csproj"
+              },
+              "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Infrastructure\\Sample.Persistence.EF\\Sample.Persistence.EF.csproj": {
+                "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Infrastructure\\Sample.Persistence.EF\\Sample.Persistence.EF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

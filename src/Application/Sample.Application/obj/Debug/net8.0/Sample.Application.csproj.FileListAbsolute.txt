@@ -1,0 +1,17 @@
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Application\Sample.Application\bin\Debug\net8.0\Sample.Application.deps.json
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Application\Sample.Application\bin\Debug\net8.0\Sample.Application.dll
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Application\Sample.Application\bin\Debug\net8.0\Sample.Application.pdb
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Application\Sample.Application\bin\Debug\net8.0\Sample.Commons.dll
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Application\Sample.Application\bin\Debug\net8.0\Sample.Core.dll
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Application\Sample.Application\bin\Debug\net8.0\Sample.Commons.pdb
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Application\Sample.Application\bin\Debug\net8.0\Sample.Core.pdb
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Application\Sample.Application\obj\Debug\net8.0\Sample.Application.csproj.AssemblyReference.cache
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Application\Sample.Application\obj\Debug\net8.0\Sample.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Application\Sample.Application\obj\Debug\net8.0\Sample.Application.AssemblyInfoInputs.cache
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Application\Sample.Application\obj\Debug\net8.0\Sample.Application.AssemblyInfo.cs
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Application\Sample.Application\obj\Debug\net8.0\Sample.Application.csproj.CoreCompileInputs.cache
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Application\Sample.Application\obj\Debug\net8.0\Sample.A.41C4AB73.Up2Date
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Application\Sample.Application\obj\Debug\net8.0\Sample.Application.dll
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Application\Sample.Application\obj\Debug\net8.0\refint\Sample.Application.dll
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Application\Sample.Application\obj\Debug\net8.0\Sample.Application.pdb
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Application\Sample.Application\obj\Debug\net8.0\ref\Sample.Application.dll

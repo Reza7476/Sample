@@ -1,0 +1,11 @@
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Core\Sample.Core\bin\Debug\net8.0\Sample.Core.deps.json
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Core\Sample.Core\bin\Debug\net8.0\Sample.Core.dll
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Core\Sample.Core\bin\Debug\net8.0\Sample.Core.pdb
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Core\Sample.Core\obj\Debug\net8.0\Sample.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Core\Sample.Core\obj\Debug\net8.0\Sample.Core.AssemblyInfoInputs.cache
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Core\Sample.Core\obj\Debug\net8.0\Sample.Core.AssemblyInfo.cs
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Core\Sample.Core\obj\Debug\net8.0\Sample.Core.csproj.CoreCompileInputs.cache
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Core\Sample.Core\obj\Debug\net8.0\Sample.Core.dll
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Core\Sample.Core\obj\Debug\net8.0\refint\Sample.Core.dll
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Core\Sample.Core\obj\Debug\net8.0\Sample.Core.pdb
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Core\Sample.Core\obj\Debug\net8.0\ref\Sample.Core.dll
