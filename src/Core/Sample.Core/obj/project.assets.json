@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Core\\Sample.Core\\Sample.Core.csproj",
+      "projectUniqueName": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Core\\Sample.Core\\Sample.Core.csproj",
       "projectName": "Sample.Core",
-      "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Core\\Sample.Core\\Sample.Core.csproj",
+      "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Core\\Sample.Core\\Sample.Core.csproj",
       "packagesPath": "C:\\Users\\test5\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Core\\Sample.Core\\obj\\",
+      "outputPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Core\\Sample.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\test5\\AppData\\Roaming\\NuGet\\NuGet.Config",

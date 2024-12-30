@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vz+7veheGc0=",
+  "dgSpecHash": "dNbGo/dXfKM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Infrastructure\\Sample.Migrations\\Sample.Migrations.csproj",
+  "projectFilePath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Infrastructure\\Sample.Migrations\\Sample.Migrations.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\test5\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\test5\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

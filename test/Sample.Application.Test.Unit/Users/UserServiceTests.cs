@@ -41,7 +41,8 @@ public class UserServiceTests : BusinessUnitTest
         
         var expected = await _sut.GetAllUsers();
 
-
+        expected.First().Email.Should().Be(user.Email); 
+        expected.First().Name.Should().Be(user.Name);   
+        expected.First().Id.Should().Be(user.Id);
     }
-
 }

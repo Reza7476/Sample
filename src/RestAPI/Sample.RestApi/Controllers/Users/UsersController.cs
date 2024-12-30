@@ -19,5 +19,11 @@ public class UsersController : ControllerBase
     {
         return await _service.Add(dto);
     }
+    
+    [HttpGet("all")]
+    public Task <List<GetAllUsersDto>> GetAllUsers()
+    {
+        return _service.GetAllUsers();
+    }
    
 }

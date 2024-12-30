@@ -22,16 +22,13 @@ public class EFUserRepository : IUserRepository
        await _users.AddAsync(user); 
     }
 
-    public async Task<IPageResult<GetAllUsersDto>> GetAllUsers(IPagination? pagination = null)
+    public async Task<List<GetAllUsersDto>> GetAllUsers(IPagination? pagination = null)
     {
-        var query=_users.Select(_=>new GetAllUsersDto()
+        return await _users .Select(_=>new GetAllUsersDto()
         {
             Email=_.Email,
-             Id=_.Id,
-              Name=_.Name,  
-        }).AsQueryable();
-
-        return await query.Paginate(pagination?? new Pagination);
-
+            Id=_.Id,
+            Name=_.Name,
+        }).ToListAsync();
     }
 }

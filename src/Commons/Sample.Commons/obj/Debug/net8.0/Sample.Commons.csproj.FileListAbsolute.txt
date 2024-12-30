@@ -9,3 +9,15 @@ C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Commons\Sample.
 C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Commons\Sample.Commons\obj\Debug\net8.0\refint\Sample.Commons.dll
 C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Commons\Sample.Commons\obj\Debug\net8.0\Sample.Commons.pdb
 C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\Sample\src\Commons\Sample.Commons\obj\Debug\net8.0\ref\Sample.Commons.dll
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\New folder111\Sample\src\Commons\Sample.Commons\bin\Debug\net8.0\Sample.Commons.deps.json
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\New folder111\Sample\src\Commons\Sample.Commons\bin\Debug\net8.0\Sample.Commons.dll
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\New folder111\Sample\src\Commons\Sample.Commons\bin\Debug\net8.0\Sample.Commons.pdb
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\New folder111\Sample\src\Commons\Sample.Commons\obj\Debug\net8.0\Sample.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\New folder111\Sample\src\Commons\Sample.Commons\obj\Debug\net8.0\Sample.Commons.AssemblyInfoInputs.cache
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\New folder111\Sample\src\Commons\Sample.Commons\obj\Debug\net8.0\Sample.Commons.AssemblyInfo.cs
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\New folder111\Sample\src\Commons\Sample.Commons\obj\Debug\net8.0\Sample.Commons.csproj.CoreCompileInputs.cache
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\New folder111\Sample\src\Commons\Sample.Commons\obj\Debug\net8.0\Sample.Commons.sourcelink.json
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\New folder111\Sample\src\Commons\Sample.Commons\obj\Debug\net8.0\Sample.Commons.dll
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\New folder111\Sample\src\Commons\Sample.Commons\obj\Debug\net8.0\refint\Sample.Commons.dll
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\New folder111\Sample\src\Commons\Sample.Commons\obj\Debug\net8.0\Sample.Commons.pdb
+C:\Users\test5\Desktop\Reza-Dehgani\Medis-Sample-Back\New folder111\Sample\src\Commons\Sample.Commons\obj\Debug\net8.0\ref\Sample.Commons.dll

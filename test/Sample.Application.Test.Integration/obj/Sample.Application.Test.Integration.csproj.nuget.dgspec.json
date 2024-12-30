@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\test\\Sample.Application.Test.Integration\\Sample.Application.Test.Integration.csproj": {}
+    "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\test\\Sample.Application.Test.Integration\\Sample.Application.Test.Integration.csproj": {}
   },
   "projects": {
-    "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Application\\Sample.Application\\Sample.Application.csproj": {
+    "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Application\\Sample.Application\\Sample.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Application\\Sample.Application\\Sample.Application.csproj",
+        "projectUniqueName": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Application\\Sample.Application\\Sample.Application.csproj",
         "projectName": "Sample.Application",
-        "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Application\\Sample.Application\\Sample.Application.csproj",
+        "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Application\\Sample.Application\\Sample.Application.csproj",
         "packagesPath": "C:\\Users\\test5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Application\\Sample.Application\\obj\\",
+        "outputPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Application\\Sample.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\test5\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,11 +29,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Commons\\Sample.Commons\\Sample.Commons.csproj": {
-                "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Commons\\Sample.Commons\\Sample.Commons.csproj"
+              "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Commons\\Sample.Commons\\Sample.Commons.csproj": {
+                "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Commons\\Sample.Commons\\Sample.Commons.csproj"
               },
-              "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Core\\Sample.Core\\Sample.Core.csproj": {
-                "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Core\\Sample.Core\\Sample.Core.csproj"
+              "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Core\\Sample.Core\\Sample.Core.csproj": {
+                "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Core\\Sample.Core\\Sample.Core.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Commons\\Sample.Commons\\Sample.Commons.csproj": {
+    "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Commons\\Sample.Commons\\Sample.Commons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Commons\\Sample.Commons\\Sample.Commons.csproj",
+        "projectUniqueName": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Commons\\Sample.Commons\\Sample.Commons.csproj",
         "projectName": "Sample.Commons",
-        "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Commons\\Sample.Commons\\Sample.Commons.csproj",
+        "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Commons\\Sample.Commons\\Sample.Commons.csproj",
         "packagesPath": "C:\\Users\\test5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Commons\\Sample.Commons\\obj\\",
+        "outputPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Commons\\Sample.Commons\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\test5\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -133,14 +133,14 @@
         }
       }
     },
-    "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Core\\Sample.Core\\Sample.Core.csproj": {
+    "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Core\\Sample.Core\\Sample.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Core\\Sample.Core\\Sample.Core.csproj",
+        "projectUniqueName": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Core\\Sample.Core\\Sample.Core.csproj",
         "projectName": "Sample.Core",
-        "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Core\\Sample.Core\\Sample.Core.csproj",
+        "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Core\\Sample.Core\\Sample.Core.csproj",
         "packagesPath": "C:\\Users\\test5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Core\\Sample.Core\\obj\\",
+        "outputPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Core\\Sample.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\test5\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -194,14 +194,14 @@
         }
       }
     },
-    "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Infrastructure\\Sample.Migrations\\Sample.Migrations.csproj": {
+    "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Infrastructure\\Sample.Migrations\\Sample.Migrations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Infrastructure\\Sample.Migrations\\Sample.Migrations.csproj",
+        "projectUniqueName": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Infrastructure\\Sample.Migrations\\Sample.Migrations.csproj",
         "projectName": "Sample.Migrations",
-        "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Infrastructure\\Sample.Migrations\\Sample.Migrations.csproj",
+        "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Infrastructure\\Sample.Migrations\\Sample.Migrations.csproj",
         "packagesPath": "C:\\Users\\test5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Infrastructure\\Sample.Migrations\\obj\\",
+        "outputPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Infrastructure\\Sample.Migrations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\test5\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -285,14 +285,14 @@
         }
       }
     },
-    "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Infrastructure\\Sample.Persistence.EF\\Sample.Persistence.EF.csproj": {
+    "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Infrastructure\\Sample.Persistence.EF\\Sample.Persistence.EF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Infrastructure\\Sample.Persistence.EF\\Sample.Persistence.EF.csproj",
+        "projectUniqueName": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Infrastructure\\Sample.Persistence.EF\\Sample.Persistence.EF.csproj",
         "projectName": "Sample.Persistence.EF",
-        "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Infrastructure\\Sample.Persistence.EF\\Sample.Persistence.EF.csproj",
+        "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Infrastructure\\Sample.Persistence.EF\\Sample.Persistence.EF.csproj",
         "packagesPath": "C:\\Users\\test5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Infrastructure\\Sample.Persistence.EF\\obj\\",
+        "outputPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Infrastructure\\Sample.Persistence.EF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\test5\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -310,14 +310,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Application\\Sample.Application\\Sample.Application.csproj": {
-                "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Application\\Sample.Application\\Sample.Application.csproj"
+              "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Application\\Sample.Application\\Sample.Application.csproj": {
+                "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Application\\Sample.Application\\Sample.Application.csproj"
               },
-              "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Commons\\Sample.Commons\\Sample.Commons.csproj": {
-                "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Commons\\Sample.Commons\\Sample.Commons.csproj"
+              "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Commons\\Sample.Commons\\Sample.Commons.csproj": {
+                "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Commons\\Sample.Commons\\Sample.Commons.csproj"
               },
-              "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Core\\Sample.Core\\Sample.Core.csproj": {
-                "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Core\\Sample.Core\\Sample.Core.csproj"
+              "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Core\\Sample.Core\\Sample.Core.csproj": {
+                "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Core\\Sample.Core\\Sample.Core.csproj"
               }
             }
           }
@@ -384,14 +384,14 @@
         }
       }
     },
-    "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\test\\Sample.Application.Test.Integration\\Sample.Application.Test.Integration.csproj": {
+    "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\test\\Sample.Application.Test.Integration\\Sample.Application.Test.Integration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\test\\Sample.Application.Test.Integration\\Sample.Application.Test.Integration.csproj",
+        "projectUniqueName": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\test\\Sample.Application.Test.Integration\\Sample.Application.Test.Integration.csproj",
         "projectName": "Sample.Application.Test.Integration",
-        "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\test\\Sample.Application.Test.Integration\\Sample.Application.Test.Integration.csproj",
+        "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\test\\Sample.Application.Test.Integration\\Sample.Application.Test.Integration.csproj",
         "packagesPath": "C:\\Users\\test5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\test\\Sample.Application.Test.Integration\\obj\\",
+        "outputPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\test\\Sample.Application.Test.Integration\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\test5\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -409,8 +409,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\test\\Sample.Test.Tools\\Sample.Test.Tools.csproj": {
-                "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\test\\Sample.Test.Tools\\Sample.Test.Tools.csproj"
+              "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\test\\Sample.Test.Tools\\Sample.Test.Tools.csproj": {
+                "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\test\\Sample.Test.Tools\\Sample.Test.Tools.csproj"
               }
             }
           }
@@ -467,14 +467,14 @@
         }
       }
     },
-    "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\test\\Sample.Test.Tools\\Sample.Test.Tools.csproj": {
+    "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\test\\Sample.Test.Tools\\Sample.Test.Tools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\test\\Sample.Test.Tools\\Sample.Test.Tools.csproj",
+        "projectUniqueName": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\test\\Sample.Test.Tools\\Sample.Test.Tools.csproj",
         "projectName": "Sample.Test.Tools",
-        "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\test\\Sample.Test.Tools\\Sample.Test.Tools.csproj",
+        "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\test\\Sample.Test.Tools\\Sample.Test.Tools.csproj",
         "packagesPath": "C:\\Users\\test5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\test\\Sample.Test.Tools\\obj\\",
+        "outputPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\test\\Sample.Test.Tools\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\test5\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -492,14 +492,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Application\\Sample.Application\\Sample.Application.csproj": {
-                "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Application\\Sample.Application\\Sample.Application.csproj"
+              "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Application\\Sample.Application\\Sample.Application.csproj": {
+                "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Application\\Sample.Application\\Sample.Application.csproj"
               },
-              "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Infrastructure\\Sample.Migrations\\Sample.Migrations.csproj": {
-                "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Infrastructure\\Sample.Migrations\\Sample.Migrations.csproj"
+              "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Infrastructure\\Sample.Migrations\\Sample.Migrations.csproj": {
+                "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Infrastructure\\Sample.Migrations\\Sample.Migrations.csproj"
               },
-              "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Infrastructure\\Sample.Persistence.EF\\Sample.Persistence.EF.csproj": {
-                "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Infrastructure\\Sample.Persistence.EF\\Sample.Persistence.EF.csproj"
+              "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Infrastructure\\Sample.Persistence.EF\\Sample.Persistence.EF.csproj": {
+                "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Infrastructure\\Sample.Persistence.EF\\Sample.Persistence.EF.csproj"
               }
             }
           }

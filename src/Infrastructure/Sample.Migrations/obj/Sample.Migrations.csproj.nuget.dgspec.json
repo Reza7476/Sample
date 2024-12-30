@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Infrastructure\\Sample.Migrations\\Sample.Migrations.csproj": {}
+    "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Infrastructure\\Sample.Migrations\\Sample.Migrations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Infrastructure\\Sample.Migrations\\Sample.Migrations.csproj": {
+    "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Infrastructure\\Sample.Migrations\\Sample.Migrations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Infrastructure\\Sample.Migrations\\Sample.Migrations.csproj",
+        "projectUniqueName": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Infrastructure\\Sample.Migrations\\Sample.Migrations.csproj",
         "projectName": "Sample.Migrations",
-        "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Infrastructure\\Sample.Migrations\\Sample.Migrations.csproj",
+        "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Infrastructure\\Sample.Migrations\\Sample.Migrations.csproj",
         "packagesPath": "C:\\Users\\test5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\Sample\\src\\Infrastructure\\Sample.Migrations\\obj\\",
+        "outputPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\src\\Infrastructure\\Sample.Migrations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\test5\\AppData\\Roaming\\NuGet\\NuGet.Config",
