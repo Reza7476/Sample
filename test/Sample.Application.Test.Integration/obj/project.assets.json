@@ -9507,11 +9507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\test\\Sample.Application.Test.Integration\\Sample.Application.Test.Integration.csproj",
+      "projectUniqueName": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\gjwcfijbewflbarewli\\Sample\\test\\Sample.Application.Test.Integration\\Sample.Application.Test.Integration.csproj",
       "projectName": "Sample.Application.Test.Integration",
-      "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\test\\Sample.Application.Test.Integration\\Sample.Application.Test.Integration.csproj",
+      "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\gjwcfijbewflbarewli\\Sample\\test\\Sample.Application.Test.Integration\\Sample.Application.Test.Integration.csproj",
       "packagesPath": "C:\\Users\\test5\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\test\\Sample.Application.Test.Integration\\obj\\",
+      "outputPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\gjwcfijbewflbarewli\\Sample\\test\\Sample.Application.Test.Integration\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\test5\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9529,8 +9529,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\test\\Sample.Test.Tools\\Sample.Test.Tools.csproj": {
-              "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\New folder111\\Sample\\test\\Sample.Test.Tools\\Sample.Test.Tools.csproj"
+            "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\gjwcfijbewflbarewli\\Sample\\test\\Sample.Test.Tools\\Sample.Test.Tools.csproj": {
+              "projectPath": "C:\\Users\\test5\\Desktop\\Reza-Dehgani\\Medis-Sample-Back\\gjwcfijbewflbarewli\\Sample\\test\\Sample.Test.Tools\\Sample.Test.Tools.csproj"
             }
           }
         }
